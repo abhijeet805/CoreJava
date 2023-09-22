@@ -1,0 +1,17 @@
+1) for cloning
+
+$ git clone https://github.c
+Cloning into 'Operating_system
+
+2)ls -a
+
+3)git status
+
+4)git add index.html     //for one file
+
+5)git add .              //for all file
+
+commit:
+6)git commit -m "Add new paragraph"
+
+7)git push origin main    //push the file on github
